@@ -3,7 +3,16 @@
 
 # Don't call the function, you just need to define it.
 
+def all_positives(numbers):
+    for num in numbers:
+        if num < 0:
+            return False
+        else:
+            return True
+            
+print(all_positives(-1))
 
+List = [1,99,-5,4,2]
 
 
 
