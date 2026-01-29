@@ -13,7 +13,7 @@ def all_positives(numbers):
 print(all_positives(-1))
 
 List = [1,99,-5,4,2]
-
+ 
 
 
 
